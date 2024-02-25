@@ -1,7 +1,7 @@
-//Trabajo Pr·ctico 2a 
-//1 - Robot MÛvil
+//Trabajo Pr√°ctico 2a 
+//1 - Robot M√≥vil
 //Alumnos:	Araujo, Juan Ingnacio	10649
-//		Silva, VÌctor	10988
+//		Silva, V√≠ctor	10988
 
 #include <iostream>
 #include <string>
