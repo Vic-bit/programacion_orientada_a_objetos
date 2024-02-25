@@ -1,0 +1,20 @@
+Resolucion: 40x40 puntos
+Relleno personalizado: *
+
+Figura		Color		A/Centro	B/radio/base	C/altura	Perimetro	Superficie
+
+Error (fuera de rango)
+Rectangulo	2		10, 10		8		2		20		16
+Rectangulo	3		1, 12		3		4		14		12
+Circulo		7				3		17, 17		18.84		28.26
+Error (fig. no existe)
+Error (parametros invalidos)
+Error (color repetido)
+Circulo		8				7		10, 30		43.96		153.86
+
+Lineas de entidad en el archivo: 8
+Errores: 4
+Triangulos: 0
+Rectangulo: 2
+Circulo: 2
+%Areas: 13.1325

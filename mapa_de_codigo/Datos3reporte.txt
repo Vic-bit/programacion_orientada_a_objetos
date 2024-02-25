@@ -1,0 +1,21 @@
+Resolucion: 600x200 puntos
+Relleno personalizado: default(0)
+
+Figura		Color		A/Centro	B/radio/base	C/altura	Perimetro	Superficie
+
+Error (fig. no existe)
+Error (fig. no existe)
+Triangulo	3		5, 5		50, 50		95, 5		217.279		2025
+Circulo		5				90		300, 100	565.2		25434
+Circulo		4				100		500, 100	628		31400
+Rectangulo	9		10, 10		10		95		210		950
+Error (fuera de rango)
+Error (parametros invalidos)
+Error (fig. no existe)
+
+Lineas de entidad en el archivo: 9
+Errores: 5
+Triangulos: 1
+Rectangulo: 1
+Circulo: 2
+%Areas: 49.8408
